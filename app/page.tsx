@@ -1,4 +1,5 @@
 import Link from "next/link"
+import ShareQr from "@/components/share-qr"
 import beers from "./beer.json"
 
 const beerList = beers.map((beer) => (
@@ -33,7 +34,7 @@ export default function Page() {
           </header>
         </div>
         <footer className="mt-auto text-center text-xs text-white">
-          Dela med dig av hemsidan!
+          <ShareQr />
         </footer>
       </div>
     </div>
