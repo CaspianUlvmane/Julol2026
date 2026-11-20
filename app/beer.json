@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2",
+    "name": "Julmumma",
+    "brewery": "Falcon",
+    "style": "kryddad öl",
+    "abv": 5.2,
+    "description": "Kryddig, söt smak med inslag av kardemumma, vörtbröd, ljus sirap, kanel, ingefära, pomerans, muscovadosocker och choklad. Serveras vid 10-14°C som sällskapsdryck.",
+    "imageUrl": "https://carlsbergsverige.se/media/owpfq3ld/falcons-julmumma.png?height=570&mode=max",
+    "link": "https://www.systembolaget.se/produkt/ol/falcons-julmumma-1135501/"
+  },
+  {
+    "id": "3",
+    "name": "Julöl",
+    "brewery": "Brewski",
+    "style": "Mörk lager",
+    "abv": 5.6,
+    "description": "Maltig smak med inslag av knäckebröd, aprikos, ljus sirap, nötter och pomerans. Serveras vid 8-10°C som sällskapsdryck, till smakrika vegetariska rätter eller till rätter av fläsk-, lamm- eller nötkött.",
+    "imageUrl": "https://brill.se/storage/2DE8DEAF837164A96BF8325D5C031177CA96563E0CEC83D760325A8B092B88AD/2fa0cff13b41420787f8e35d82ec7800/png/media/cb0afe773de84e39b19caa21c8ddb19e/Jul%C3%B6l%20-%20burk.png",
+    "link": "https://www.systembolaget.se/produkt/ol/brewski-3010035/"
+  },
+  {
+    "id": "4",
+    "name": "Winterlong",
+    "brewery": "Brewski",
+    "style": "DIPA",
+    "abv": 4.5,
+    "description": "Humlearomatisk smak med tydlig beska, inslag av passionsfrukt, tallkåda, mango, grapefrukt och kryddor. Serveras vid 8-10°C som sällskapsdryck eller till rätter av fläsk-, lamm- eller nötkött.",
+    "imageUrl": "https://brewski.se/assets/cans/range/3047515.webp",
+    "link": "https://www.systembolaget.se/produkt/ol/brewski-3016135/"
+  },
+  {
+    "id": "5",
+    "name": "Christmas Ale",
+    "brewery": "Gouden Carolus",
+    "style": "Belgian Strong Ale",
+    "abv": 10,
+    "description": "Kryddig, söt smak med inslag av katrinplommon, stjärnanis, honung, kaffe, choklad, torkade aprikoser, kanel och apelsin. Serveras vid 10-12°C som sällskapsdryck eller till lagrade hårdostar.",
+    "imageUrl": "https://www.systembolaget.se/_next/image/?url=https%3A%2F%2Fproduct-cdn.systembolaget.se%2Fproductimages%2F3066150%2F3066150_400.webp&w=256&q=75",
+    "link": "https://www.systembolaget.se/produkt/ol/gouden-carolus-1129903/"
+  },
+    {
+    "id": "1",
+    "name": "Snowball Planet SWIRL",
+    "brewery": "Elmeleven",
+    "style": "Smoothie Sour",
+    "abv": 5.0,
+    "description": "Kryddig, söt, något syrlig smak med tydlig karaktär av mjuk pepparkaka, inslag av peppar. Serveras vid 6-8°C som sällskapsdryck.",
+    "imageUrl": "https://www.systembolaget.se/_next/image/?url=https%3A%2F%2Fproduct-cdn.systembolaget.se%2Fproductimages%2F67520244%2F67520244_400.webp&w=256&q=75",
+    "link": "https://www.systembolaget.se/produkt/ol/elmeleven-3211534/"
+  }
+]
